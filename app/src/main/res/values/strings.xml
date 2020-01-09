@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="hint_message">Сообщение</string>
+    <string name="username_person">Человек</string>
+    <string name="username_bot1">Бот 1</string>
+    <string name="username_bot2">Бот 2</string>
+    <string name="username_bot3">Бот 3</string>
+    <string name="toast_empty_text">Сообщение пусто</string>
+</resources>
